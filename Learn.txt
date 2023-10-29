@@ -1,0 +1,6 @@
+In this Module what will we learn?
+1. We will again see about Pointer.
+2. We will learn about Call By Value and Call by Reference.
+3. We will see the Relation between Array and Pointer.
+4. We will see how to do work between Function and Array.
+5. We will see how Function and Array work like Call By Reference.
